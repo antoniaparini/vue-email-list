@@ -1,0 +1,33 @@
+/*GENERAL STYLES*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+.container {
+    height: 1000px;
+    width: 1300px;
+    background-color: #6d6875;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+}
+
+.container h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #b5838d;
+}
+
+h2 {
+    font-size: 30px;
+    color: #e5989b;
+
+}
+
+.container i{
+    background-color: #ffcdb2;
+}
