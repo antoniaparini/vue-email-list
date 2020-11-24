@@ -12,7 +12,7 @@ var app = new Vue ({
 
         mail_listbox: [],
 },
-
+/**Utilizzabile anche la sintassi counted */
 mounted() {
 
     const self = this
